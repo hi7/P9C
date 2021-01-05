@@ -1,9 +1,0 @@
-To build the P9C project, install the icestorm toolchain from http://www.clifford.at/icestorm/
-and the iceFUN programmer from https://github.com/devantech/iceFUNprog
-
-Open a terminal in the P9C folder and enter:
-make 9pc
-make burn
-
-For simulation install icarus from http://iverilog.icarus.com/ and run:
-./sim.sh
